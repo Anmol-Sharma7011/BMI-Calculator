@@ -1,6 +1,7 @@
 # BMI Calculator
 
 A simple web application to calculate Body Mass Index (BMI) based on user input for height and weight.
+🔗 Live Demo : [https://anmol-sharma7011.github.io/BMI-Calculator/]
 
 ## Features
 
